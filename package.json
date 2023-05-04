@@ -1,0 +1,27 @@
+{
+  "name": "-y",
+  "version": "1.0.0",
+  "description": "Write a function called `maximiseProfits` that takes in an array of stock prices over the course of several days and returns the single most profitable stock, with the maximum profit it could make over this time frame.",
+  "main": "maximiseProfits.js",
+  "scripts": {
+    "test": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMcSnail/maximiseProfitKata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrMcSnail/maximiseProfitKata/issues"
+  },
+  "homepage": "https://github.com/MrMcSnail/maximiseProfitKata#readme",
+  "devDependencies": {
+    "jest": "*"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.1.1",
+    "chai": "*",
+    "mocha": "*"
+  }
+}
