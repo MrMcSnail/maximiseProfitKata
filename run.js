@@ -1,4 +1,4 @@
-const { maximiseProfits } = require('./maximiseProfits.second-draft');
+const { maximiseProfits } = require('./maximiseProfits.performance');
 const stockPrices = require('./stockPrices.json');
 
 console.time();
